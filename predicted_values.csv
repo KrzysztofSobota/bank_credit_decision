@@ -1,4 +1,4 @@
-Y predicted,Y real,Accuracy score,max_depth
+Y predicted,Y real,accuracy score,max_depth
 no,no,100.0,35
 no,no,100.0,35
 no,no,100.0,35
